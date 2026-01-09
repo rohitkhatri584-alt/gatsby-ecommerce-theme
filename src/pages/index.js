@@ -31,8 +31,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={"Fabricvala - Your E‑commerce Growth Partner"}
+        subtitle={We help brands manage inventory, listings and shipping.}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
